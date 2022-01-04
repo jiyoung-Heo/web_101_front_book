@@ -4,7 +4,7 @@ import './index.css'; //css import
 import App from './App'; //App 컴포넌트 import
 import reportWebVitals from './reportWebVitals';
 
-ReactDOM.render( //ReactDOM이 내부의 컴포넌트들을 'root'엘리멘트에 render함
+ReactDOM.render( // ReactDOM이 내부의 컴포넌트들을 'root'엘리멘트에 render함
   <React.StrictMode>
     <App />
   </React.StrictMode>,
